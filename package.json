@@ -1,0 +1,28 @@
+{
+  "name": "kbm-hotel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hotel.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locomoco28/kbm-hotel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locomoco28/kbm-hotel/issues"
+  },
+  "homepage": "https://github.com/locomoco28/kbm-hotel#readme",
+  "dependencies": {
+    "@replit/database": "^2.0.0",
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "swr": "^0.4.2"
+  }
+}
