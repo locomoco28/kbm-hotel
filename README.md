@@ -18,6 +18,9 @@
 ```bash
 # install dependencies
 npm i
+
+# build project
+npm run build
 ```
 
 ## Starting Server
